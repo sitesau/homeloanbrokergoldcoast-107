@@ -1,0 +1,22 @@
+{
+  "wheel_id": 853,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-107",
+  "project": "home-loan-broker-gold-coast-glossary-49d89de08542a9a622df7b3753",
+  "parent_t1_ref": "homeloanbrokergoldcoast-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan broker gold coast glossary",
+  "intended_url": "https://sitesau.github.io/homeloanbrokergoldcoast-107/",
+  "tier": "T2",
+  "writeback_nonce": "0ac597292f39f72b",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-gold-coast-budget-tips-240ae40c4b47e72e607e0d9/",
+      "anchor": "https://aumedia.neocities.org/home-loan-broker-gold-coast-budget-tips-240ae40c4b47e72e607e0d9/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
